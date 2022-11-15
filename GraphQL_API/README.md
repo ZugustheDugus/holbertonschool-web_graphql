@@ -1,0 +1,1 @@
+GraphQL API project for Holberton School by Hayden M. Cooper
